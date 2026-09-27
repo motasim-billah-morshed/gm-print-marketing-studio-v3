@@ -1,4 +1,12 @@
-# GM Print · Marketing Studio v2
+# GM Print · Marketing Studio v3 — prepared baseline
+
+Separate development copy of the accepted v2 Delivery 2. No new features or interface changes yet. Future work belongs only in this v3 repository; v1 and v2 are preserved.
+
+See [V3 source and verification](V3-SOURCE.md) and [active development rules](AGENTS.md). The application below is intentionally unchanged, including its visible v2 label. Awaiting the owner's v3 delivery command. No v3 live deployment configured.
+
+---
+
+## Inherited v2 documentation (historical)
 
 **Development workspace — copied from the preserved v1 baseline.**
 
